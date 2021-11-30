@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-	  "id":"BC",
+      "id": "BC",
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5928,10 +5928,11 @@
             ]
           ]
         ]
-      },
-    {
+      }
+    },
+	{
       "type": "Feature",
-	  "id":"NL"
+	  "id":"NL",
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13208,8 +13209,9 @@
             ]
           ]
         ]
-      },
-    {
+     } 
+    } ,
+	 {
       "type": "Feature",
 	  "id":"SK",
       "geometry": {
@@ -13512,8 +13514,9 @@
             ]
           ]
         ]
-      },
-    {
+      }
+	  },
+	  {
       "type": "Feature",
 	  "id":"QC",
       "geometry": {
@@ -19572,10 +19575,11 @@
             ]
           ]
         ]
-      },
-    {
+      }
+	  },
+	    {
       "type": "Feature",
-	  "id":"QC",
+	  "id":"AB",
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20084,10 +20088,10 @@
             ]
           ]
         ]
-      },  
-    {
+      }  },
+	    {
       "type": "Feature",
-	  "id": "MB"
+	  "id": "MB",
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20636,26 +20640,9 @@
             ]
           ]
         ]
-      },
-      "properties": {
-        "cartodb_id": 10,
-        "draworder": null,
-        "visibility": -1,
-        "extrude": -1,
-        "tessellate": -1,
-        "nom": "Manitoba",
-        "icon": null,
-        "altitudemode": "relativeToGround",
-        "description": null,
-        "name": "Manitoba",
-        "_end": null,
-        "begin": null,
-        "timestamp": null,
-        "show": "y",
-        "_2012_membership": 11991
       }
-    },
-    {
+	  },
+	      {
       "type": "Feature",
 	  "id": "NS",
       "geometry": {
@@ -22298,10 +22285,11 @@
             ]
           ]
         ]
-      },
-    {
+      }
+	  },
+	   {
       "type": "Feature",
-	  "id": "ON"
+	  "id": "ON",
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24286,10 +24274,10 @@
             ]
           ]
         ]
-      },
-    {
+      }},
+	   {
       "type": "Feature",
-	  "id": "NB"
+	  "id": "NB",
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -25050,8 +25038,8 @@
             ]
           ]
         ]
-      },
-    {
+      }},
+	   {
       "type": "Feature",
 	  "id": "PE",
       "geometry": {
@@ -25470,10 +25458,10 @@
             ]
           ]
         ]
-      },
-    {
+      }},
+	   {
       "type": "Feature",
-	  "id": "YT"
+	  "id": "YT",
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -26454,24 +26442,8 @@
             ]
           ]
         ]
-      },
-      "properties": {
-        "cartodb_id": 9,
-        "draworder": null,
-        "visibility": -1,
-        "extrude": -1,
-        "tessellate": -1,
-        "nom": "Territoire du Yukon",
-        "icon": null,
-        "altitudemode": "relativeToGround",
-        "description": null,
-        "name": "Yukon",
-        "_end": null,
-        "begin": null,
-        "timestamp": null,
-        "show": "n",
-        "_2012_membership": 747
       }
     }
-  ]
+
+ ]
 }
